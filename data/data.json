@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1893676d-f1c0-423d-8ca8-beaa43a65b56",
+    "name": "Waroeng Ngopi AKA",
+    "open": "07:00",
+    "close": "10:00",
+    "latitude": "-6.359316537575512",
+    "longitude": "106.70934733861651"
+  },
+  {
+    "id": "98fd185f-2ed4-4077-8105-22933d8d447a",
+    "name": "Warung Tepi Jalan",
+    "open": "07:00",
+    "close": "09:00",
+    "latitude": "-6.368187926888064",
+    "longitude": "106.74264178353127"
+  },
+  {
+    "id": "4101beae-a37a-4ffa-9565-6ab26337ab4e",
+    "name": "KFC",
+    "open": "07:00",
+    "close": "10:00",
+    "latitude": "-6.375182568078024",
+    "longitude": "106.68687307210514"
+  },
+  {
+    "id": "63400064-28b2-44ca-b286-f36d4312a900",
+    "name": "KFC CITRALAKE",
+    "open": "07:00",
+    "close": "10:00",
+    "latitude": "-6.401283678662477",
+    "longitude": "106.73990140211224"
+  },
+  {
+    "id": "ed6ad531-0cd9-46a6-8ef3-69f72d87191f",
+    "name": "BAJANGAN SARI",
+    "open": "09:00",
+    "close": "09:09",
+    "latitude": "-6.403158821969705",
+    "longitude": "106.68943657077972"
+  },
+  {
+    "id": "eda7d67d-9f36-4dff-b337-c7f7ef88cbb2",
+    "name": "LEMAANG",
+    "open": "00:09",
+    "close": "11:01",
+    "latitude": "-6.378921235219988",
+    "longitude": "106.69149630841373"
+  }
+]
